@@ -1,0 +1,66 @@
+3ea3f9c HEAD@{0}: checkout: moving from main to gitlog
+3ea3f9c HEAD@{1}: merge badge: Fast-forward
+af9ba3d HEAD@{2}: checkout: moving from badge to main
+3ea3f9c HEAD@{3}: commit: add: version badge
+af9ba3d HEAD@{4}: checkout: moving from main to badge
+af9ba3d HEAD@{5}: merge quote: Fast-forward
+32d859f HEAD@{6}: checkout: moving from quote to main
+af9ba3d HEAD@{7}: commit: add: project quote
+32d859f HEAD@{8}: checkout: moving from main to quote
+32d859f HEAD@{9}: merge text-formatting: Fast-forward
+2da0219 HEAD@{10}: checkout: moving from text-formatting to main
+32d859f HEAD@{11}: commit: add: text formatting example
+2da0219 HEAD@{12}: checkout: moving from main to text-formatting
+2da0219 HEAD@{13}: merge todo_list: Fast-forward
+e212786 HEAD@{14}: checkout: moving from todo_list to main
+2da0219 HEAD@{15}: commit: add: todo list
+e212786 HEAD@{16}: checkout: moving from main to todo_list
+e212786 HEAD@{17}: merge versions-table: Fast-forward
+82fa9d1 HEAD@{18}: checkout: moving from versions-table to main
+e212786 HEAD@{19}: commit: add: versions support table
+82fa9d1 HEAD@{20}: checkout: moving from main to versions-table
+82fa9d1 HEAD@{21}: merge commands-table: Fast-forward
+c3efc7b HEAD@{22}: checkout: moving from commands-table to main
+82fa9d1 HEAD@{23}: commit: add: commands table
+c3efc7b HEAD@{24}: checkout: moving from main to commands-table
+c3efc7b HEAD@{25}: merge image: Fast-forward
+256b5ba HEAD@{26}: checkout: moving from image to main
+c3efc7b HEAD@{27}: commit: add:git logo image
+256b5ba HEAD@{28}: checkout: moving from main to image
+256b5ba HEAD@{29}: merge repo-link: Fast-forward
+d2f6a79 HEAD@{30}: checkout: moving from repo-link to main
+256b5ba HEAD@{31}: commit: add: repository link
+d2f6a79 HEAD@{32}: checkout: moving from main to repo-link
+d2f6a79 HEAD@{33}: merge contact: Fast-forward
+6b1c284 HEAD@{34}: checkout: moving from contact to main
+d2f6a79 HEAD@{35}: commit: add: contact information with link
+6b1c284 HEAD@{36}: checkout: moving from main to contact
+6b1c284 HEAD@{37}: merge license: Fast-forward
+7665dce HEAD@{38}: checkout: moving from license to main
+6b1c284 HEAD@{39}: commit: add: license information
+7665dce HEAD@{40}: checkout: moving from main to license
+7665dce HEAD@{41}: merge contributing: Fast-forward
+d3ef6b7 HEAD@{42}: checkout: moving from contributing to main
+7665dce HEAD@{43}: commit: add: contributing guidelines
+d3ef6b7 HEAD@{44}: checkout: moving from main to contributing
+d3ef6b7 HEAD@{45}: merge usage: Fast-forward
+fab5154 HEAD@{46}: checkout: moving from usage to main
+d3ef6b7 HEAD@{47}: commit: add: usage example
+fab5154 HEAD@{48}: checkout: moving from main to usage
+fab5154 HEAD@{49}: merge installation: Fast-forward
+ea97cd8 HEAD@{50}: checkout: moving from installation to main
+fab5154 HEAD@{51}: commit: add:installation instruction
+ea97cd8 HEAD@{52}: checkout: moving from main to installation
+ea97cd8 HEAD@{53}: merge description: Fast-forward
+c1d81ca HEAD@{54}: checkout: moving from description to main
+ea97cd8 HEAD@{55}: commit: add: project description
+c1d81ca HEAD@{56}: checkout: moving from main to description
+c1d81ca HEAD@{57}: merge project: Fast-forward
+e22792a HEAD@{58}: checkout: moving from project to main
+c1d81ca HEAD@{59}: commit: add: project description
+e22792a HEAD@{60}: checkout: moving from main to project
+e22792a HEAD@{61}: merge project-title: Fast-forward
+5615c73 HEAD@{62}: checkout: moving from project-title to main
+e22792a HEAD@{63}: commit: add: project title
+5615c73 HEAD@{64}: checkout: moving from main to project-title
+5615c73 HEAD@{65}: clone: from github.com:Ampersant007/KR1.git

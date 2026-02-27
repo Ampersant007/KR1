@@ -1,0 +1,17 @@
+* 3ea3f9c add: version badge
+* af9ba3d add: project quote
+* 32d859f add: text formatting example
+* 2da0219 add: todo list
+* e212786 add: versions support table
+* 82fa9d1 add: commands table
+* c3efc7b add:git logo image
+* 256b5ba add: repository link
+* d2f6a79 add: contact information with link
+* 6b1c284 add: license information
+* 7665dce add: contributing guidelines
+* d3ef6b7 add: usage example
+* fab5154 add:installation instruction
+* ea97cd8 add: project description
+* c1d81ca add: project description
+* e22792a add: project title
+* 5615c73 Initial commit

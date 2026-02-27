@@ -1,0 +1,160 @@
+  505  git clone git@github.com:Ampersant007/KR1.git
+  506  cd KR1/
+  507  git branch project-title
+  508  git checkout project-title 
+  509  nano README.md 
+  510  cat README.md 
+  511  git commit -m "add: project title"
+  512  git status
+  513  git add *
+  514  git commit -m "add: project title"
+  515  git log
+  516  git checkout main
+  517  git merge project-title 
+  518  git branch -d project-title 
+  519  git log
+  520  git branch project
+  521  git checkout project 
+  522  mkdir src
+  523  cd src
+  524  nano prog.c
+  525  gcc -o out prog.c
+  526  nano prog.c 
+  527  gcc -o out prog.c
+  528  ./out
+  529  git add *
+  530  git commit -m "add: project description"
+  531  git checkout main
+  532  git merge project 
+  533  git branch -d project 
+  534  cd ..
+  535  nano README.md 
+  536  git branch description
+  537  git checkout description 
+  538  nano README.md 
+  539  git add *
+  540  git commit -m "add: project description"
+  541  git branch main
+  542  git checkout main
+  543  git merge description 
+  544  git branch -d description 
+  545  git branch installation
+  546  git checkout installation 
+  547  nano README.md 
+  548  git add *
+  549  git commit -m "add:installation instruction"
+  550  git checkout main
+  551  git merge installation 
+  552  git branch -d installation 
+  553  git branch usage
+  554  git checkout usage 
+  555  nano README.md 
+  556  git add *
+  557  git commit -m "add: usage example"
+  558  git checkout main
+  559  git merge usage 
+  560  git branch -d usage 
+  561  git branch contributing
+  562  git checkout contributing 
+  563  nano README.md 
+  564  пше фвв *
+  565  git add *
+  566  git commit -m "add: contributing guidelines"
+  567  git checkout main
+  568  git merge contributing 
+  569  git branch -d contributing 
+  570  git log
+  571  git branch license
+  572  git checkout license 
+  573  nano README.md 
+  574  git add *
+  575  git commit -m "add: license information"
+  576  git checkout main
+  577  git merge license 
+  578  git branch -d license 
+  579  git branch contact
+  580  git checkout contact 
+  581  nano README.md 
+  582  git add *
+  583  git commit -m "add: contact information with link"
+  584  git checkout main
+  585  git merge contact 
+  586  git branch -d contact 
+  587  git branch repo-link
+  588  git checkout repo-link 
+  589  nano README.md 
+  590  git add *
+  591  git commit -m "add: repository link"
+  592  git checkout main
+  593  git merge repo-link 
+  594  git branch -d repo-link 
+  595  git log
+  596  git branch image
+  597  git checkout image 
+  598  nano README.md 
+  599  git add *
+  600  git commit -m "add:git logo image"
+  601  git checkout main
+  602  git merge image 
+  603  git branch -d image 
+  604  git branch commands-table
+  605  git checkout commands-table 
+  606  nano README.md 
+  607  git add *
+  608  nano README.md 
+  609  пше фвв *
+  610  git add *
+  611  git commit -m "add: commands table"
+  612  git checkout main
+  613  git merge commands-table 
+  614  git branch -d commands-table 
+  615  git branch versions-table
+  616  git checkout versions-table 
+  617  nano README.md 
+  618  git add *
+  619  git commit -m "add: versions support table"
+  620  git checkout main
+  621  git merge versions-table 
+  622  git branch -d versions-table 
+  623  git branch todo_list
+  624  git checkout todo_list 
+  625  nano README.md 
+  626  git add *
+  627  git commit -m "add: todo list"
+  628  git checkout main
+  629  git merge todo_list 
+  630  git branch -d todo_list 
+  631  git branch text-formatting
+  632  git checkout text-formatting 
+  633  nano README.md 
+  634  git add *
+  635  git commit -m "add: text formatting example"
+  636  git checkout main
+  637  git merge text-formatting 
+  638  git branch -d text-formatting 
+  639  git branch quote
+  640  git checkout quote 
+  641  nano README.md 
+  642  git add *
+  643  git commit -m "add: project quote"
+  644  git checkout main
+  645  git merge quote 
+  646  git branch -d quote 
+  647  git branch badge
+  648  git checkout badge 
+  649  nano README.md 
+  650  giq
+  651  cat README.md 
+  652  git add *
+  653  git commit -m "add: version badge"
+  654  git checkout main
+  655  git merge badge 
+  656  git branch -d badge 
+  657  git branch gitlog
+  658  git checkout gitlog
+  659  git log --oneline --graph > repo-history.txt
+  660  git reflog > branches-history.txt
+  661  history 200
+  662  history 157 > command-history.txt
+  663  cat command-history.txt 
+  664  history 160 > command-history.txt
