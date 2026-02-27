@@ -6,3 +6,10 @@
 	1. `git clone https://github.com/Ampersant007/KR1.git` после чего перейти в проект
 	2. `git remote rename origin upstream`
 	3. `git remote add origin <your_URL_of_GitHub>` 
+## Usage
+Вывод информации о создателе проекта. 
+Для компиляции ввести данные команды
+```bash
+gcc -o out prog.c
+./out
+```
