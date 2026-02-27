@@ -18,4 +18,4 @@ gcc -o out prog.c
 - уверенность в себе
 - компьютер
 ## Тип лицензии MIT
-
+## Contact: [Написать автору](author@example.com)
