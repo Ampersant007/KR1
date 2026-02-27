@@ -1,5 +1,6 @@
 # Мой учебный проект
 ## Description
+<img src="https://git-scm.com/images/logo@2x.png" alt="Логотип Git">
 Вывод информации об ученике
 Использование языка С
 ## Installation
