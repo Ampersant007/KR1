@@ -19,3 +19,4 @@ gcc -o out prog.c
 - компьютер
 ## Тип лицензии MIT
 ## Contact: [Написать автору](author@example.com)
+[Исходный код на GitHub](https://github.com/Ampersant007/KR1)
