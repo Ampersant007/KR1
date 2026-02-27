@@ -1,4 +1,5 @@
 # Мой учебный проект
+<img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version 1.0.0">
 ## Description
 <img src="https://git-scm.com/images/logo@2x.png" alt="Логотип Git">
 > "Язнаю, что ничего не знаю"
