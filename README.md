@@ -3,6 +3,11 @@
 <img src="https://git-scm.com/images/logo@2x.png" alt="Логотип Git">
 Вывод информации об ученике
 Использование языка С
+
+решаемые задачи:
+* Идентификация ученика
+* Реализация размеки Markdown
+* Повторение Git
 ## Installation
 	1. `git clone https://github.com/Ampersant007/KR1.git` после чего перейти в проект
 	2. `git remote rename origin upstream`
